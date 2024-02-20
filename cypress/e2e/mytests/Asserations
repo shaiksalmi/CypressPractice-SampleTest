@@ -1,0 +1,17 @@
+//1. Implicit assertions:
+//  Should, and
+//keywords we can use with the should and and
+
+// eq, conatin, include, exist, have.length, have.value, etc...
+
+
+//These two are build in assertions in cypress
+
+
+//2. Explicit Asserations
+// expect , assert
+//expect assert uses in BDD framework and assert uses in TDD.
+// When we have syntax error- we will get NO test Found error.
+
+
+//Asserations are the validation points whenever we want to valid something on the webpage we inculde asserations.
